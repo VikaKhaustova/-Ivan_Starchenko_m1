@@ -1,0 +1,33 @@
+body{
+  font-family: sans-serif;
+   background-color: #1f6166;
+   font-size: 25px;
+   color: white;
+   font-family: Comic Sans MS;
+}
+
+header{
+    background-color: #1e1f1f;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+a{
+    color: #634187;
+    border: 3px solid #634187;
+    padding: 5px;
+}
+
+main{
+    padding: 30px;
+    text-align: center;
+}
+
+footer{
+     background-color: #1e1f1f;
+    color: white;
+    text-align: center;
+}
